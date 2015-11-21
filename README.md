@@ -6,6 +6,12 @@ The idea is to have a method that will accept a set of unordered edges, and will
 
 The input of the function is an array of Edge instances (see src/DTO/Edge.php);
 
+
+## Output
+
+The has the same format as the input, but sorted :)
+
+
 ## Running the tests
 
 You need to have [composer installed](https://getcomposer.org/download/).
