@@ -39,3 +39,6 @@ The unordered edges array is scanned 4 times:
 - select the starting point
 - pick the next ordered edge
 
+# License
+
+Licensed under the [MIT license](http://opensource.org/licenses/MIT)
